@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 Skills and Experience
 
-<img src="https://github.com/rusic1994/Images/blob/main/images/html5-logo.png" height=70px; width="70px;">&nbsp;
-<img src="https://github.com/rusic1994/Images/blob/main/images/css3-logo.png/"  height=70px; width="80px;">&nbsp;
-<img src="https://github.com/rusic1994/Images/blob/main/images/javascript-logo.png"  height=70px; width="90px;">&nbsp;
-<img src="https://github.com/rusic1994/Images/blob/main/images/git-logo.png"  height=70px; width="70px;">&nbsp;&nbsp;
-<img src="https://github.com/rusic1994/Images/blob/main/images/vsc-logo.png"  height=70px; width="60px;">
+<img src="https://github.com/rusic1994/Images/blob/main/images/html5-logo.png" alt="html5" height=70px; width="70px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/css3-logo.png/" alt="css3" height=70px; width="80px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/javascript-logo.png" alt="javascript" height=70px; width="90px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/git-logo.png" alt="git" height=70px; width="70px;">&nbsp;&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/vsc-logo.png" alt="visualstudiocode" height=70px; width="60px;">
 
 
 Links
