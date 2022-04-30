@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rusic1994
+- 👋 Hi, I’m Stefan Rusic
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
