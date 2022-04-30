@@ -12,9 +12,9 @@ Skills and Experience
 
 <img src="https://github.com/rusic1994/Images/blob/main/images/html5-logo.png" height=70px; width="70px;">&nbsp;
 <img src="https://github.com/rusic1994/Images/blob/main/images/css3-logo.png/"  height=70px; width="80px;">&nbsp;
-<img src="https://github.com/rusic1994/Images/blob/main/images/javascript-logo.png"  height=70px; width="100px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/javascript-logo.png"  height=70px; width="90px;">&nbsp;
 <img src="https://github.com/rusic1994/Images/blob/main/images/git-logo.png"  height=70px; width="70px;">
-<img src="https://github.com/rusic1994/Images/blob/main/images/vsc-logo.png"  height=70px; width="70px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/vsc-logo.png"  height=70px; width="60px;">&nbsp;
 
 
 Links
