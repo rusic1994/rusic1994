@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Skills and Experience
 
+<img src="images/html5-icon.png" alt="HTML Icon" height="100px;" width="100px;">
