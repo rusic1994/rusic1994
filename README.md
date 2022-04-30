@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Skills and Experience
 
-<img src="https://github.com/rusic1994/Images/blob/main/images/html5-logo.png" height="100px;" width="100px;">&nbsp;
+<img src="https://github.com/rusic1994/Images/blob/main/images/html5-logo.png" height="45px;">&nbsp;
 <img src="https://github.com/rusic1994/Images/blob/main/images/css3-logo.png/" alt="CSS Icon" height="100px;" width="100px;">&nbsp;
 <img src="https://github.com/rusic1994/Images/blob/main/images/javascript-logo.png" alt="JavaScript Icon" height="100px;" width="100px;">&nbsp;
 <img src="https://github.com/rusic1994/Images/blob/main/images/git-logo.png" alt="GIT Icon" height="90px;" width="100px;">
