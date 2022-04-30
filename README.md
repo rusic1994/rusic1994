@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Skills and Experience
 
-<img src="images/html5-icon.png" alt="HTML Icon" height="100px;" width="100px;">
+<img src="images/html5-logo.png" alt="HTML Icon" height="100px;" width="100px;">
+<img src="images/css3-logo.png" alt="CSS Icon" height="100px;" width="100px;">
+<img src="images/javascript-logo.png" alt="JavaScript Icon" height="100px;" width="100px;">
+<img src="images/git-logo.png" alt="GIT Icon" height="90px;" width="100px;">
