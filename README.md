@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Links
- <br><br> [<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height='45'>](https://www.stefanrusic.com)  &nbsp; &nbsp; &nbsp; [<img align="left" alt="Stefan Rusic | LinkedIn" height='45' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/stefanrusic/)
+ <br><br> [<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height='45'>](https://www.stefanrusic.com)  &nbsp; &nbsp; [<img align="left" alt="Stefan Rusic | LinkedIn" height='45' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/stefanrusic/)
