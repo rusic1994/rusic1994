@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Stefan Rusic
+### Hi there 👋, Stefan Rusic
+#### I am Front End  Developer
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: stefanrusic32@gmail.com
 
 <!---
