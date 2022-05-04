@@ -13,5 +13,6 @@
 <img src="https://user-images.githubusercontent.com/90396418/166126040-35d83eb6-c643-4610-a6ad-b85a8493fe5d.png" alt="visualstudiocode" height="70px;" width="60px;">
 
 #### Links
-[<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height="50px;">](https://www.stefanrusic.com)  &nbsp; &nbsp;
+<!-- Website
+[<img src='https://user-images.githubusercontent.com/82830616/142861978-ef69b1da-8a58-4d06-a7f1-b1d8f3be6145.png' alt='website' height="50px;">](https://www.stefanrusic.com)  &nbsp; &nbsp; -->
 [<img align="left" alt="Stefan Rusic | LinkedIn" height="50px;" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/stefanrusic/)
