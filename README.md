@@ -1,7 +1,7 @@
 ### Hi there 👋,
   My name is  Stefan Rusic
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript and React.
+- 👀 I’m interested in Front-End Development.
+- 🌱 I’m currently improving front-end skills.
 - 📫 How to reach me: stefanrusic32@gmail.com
 
 #### Skills and Experience
