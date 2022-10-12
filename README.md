@@ -1,7 +1,7 @@
 ### Hi there 👋,
   My name is  Stefan Rusic
-- 👀 I’m interested in Software Testing.
-- 🌱 I’m currently learning automation testing.
+- 👀 I'm interested in Software Testing.
+- 🌱 I'm currently learning automation testing.
 - 📫 How to reach me: stefanrusic32@gmail.com
 
 #### Skills and Experience
